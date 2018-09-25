@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1537884569773.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2602635666",
+    "id" : "9E538B57",
+    "lastKnownWriteTime" : 1537885845,
+    "last_content_update" : 1537885845843,
+    "path" : "C:/Users/Jules/Dropbox/Site/website/website/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "95,3",
+        "scrollLine" : "79"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}

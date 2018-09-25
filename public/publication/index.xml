@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Jules Gazeaud</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Jules Gazeaud</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Proxy means testing vulnerability to measurement errors?</title>
+      <link>/publication/pmt/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/pmt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing the average impact of index insurance on farmers’ investment behaviors</title>
+      <link>/publication/insurance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/insurance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cash transfers and school performances: New evidence from Morocco</title>
+      <link>/publication/tayssir/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tayssir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The value of public works : Theory and evidence from Ethiopia</title>
+      <link>/publication/ethiopia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ethiopia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Who illegally migrates and why? Descriptive evidence from the Comoros archipelago</title>
+      <link>/publication/migration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/migration/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

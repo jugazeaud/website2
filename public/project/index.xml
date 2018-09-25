@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Jules Gazeaud</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Jules Gazeaud</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 25 Sep 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Impact Evaluation of the Comoros SSNP</title>
+      <link>/project/comoros/</link>
+      <pubDate>Tue, 25 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/project/comoros/</guid>
+      <description>In 2015, I joined a team led by Eric Mvukiyehe (DIME, The World Bank) and Olivier Sterck (Oxford University) to field a randomized control trial to assess the effects of a nation-wide social protection program. This work involves frequent, extensive field work in collaboration with two local institutions: FADC, the semi-public organisation that implements the program, and the Comorian national institute of statistics (known as INSEED), the main partner for data collection operations.</description>
+    </item>
+    
+  </channel>
+</rss>
